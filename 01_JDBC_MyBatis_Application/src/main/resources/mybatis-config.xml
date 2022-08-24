@@ -24,7 +24,7 @@
     </settings>
 
     <typeAliases>
-        <typeAlias alias="user" type="top.damoncai.application.entity.User" />
+        <package name="top.damoncai.application.entity"/>
     </typeAliases>
 
     <typeHandlers>
